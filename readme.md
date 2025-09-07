@@ -33,7 +33,7 @@ Thank you 🙏
 Install via Composer:
 
 ```
-composer require simonhamp/laravel-stripe-connect
+composer require sam-makay/laravel-stripe-connect:dev-master
 ```
 
 Add your Stripe credentials in `.env`:
